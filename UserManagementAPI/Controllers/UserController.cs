@@ -53,7 +53,7 @@ namespace UserManagementAPI.Controllers
                 _dbContext.Users.Remove(user);
                 await _dbContext.SaveChangesAsync();
 
-                return Ok("ANvändaren har tagit bort.");
+                return Ok("ANvändaren har tagits bort.");
             }
 
             catch (Exception ex)
@@ -65,18 +65,4 @@ namespace UserManagementAPI.Controllers
 
 }
 
-//public class UserController : Controller
-//{
-//    private readonly UserDbContext _dbContext;
-
-//    public UserController(UserDbContext dbContext)
-//    {
-//        _dbContext = dbContext;
-//    }
-//    [HttpGet]
-//    public IActionResult GetUsers()
-//    {
-//       return Ok(_dbContext.Users.ToList());
-//    }
-//}
 
