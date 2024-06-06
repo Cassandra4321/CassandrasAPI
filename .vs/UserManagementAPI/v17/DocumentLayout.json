@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\cassa\\documents\\.net\\utveckling av webbapplikationer\\forumprojekt\\usermanagementapi\\usermanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\cassa\\documents\\.net\\utveckling av webbapplikationer\\forumprojekt\\usermanagementapi\\usermanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\cassa\\documents\\.net\\utveckling av webbapplikationer\\forumprojekt\\usermanagementapi\\usermanagementapi\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\cassa\\documents\\.net\\utveckling av webbapplikationer\\forumprojekt\\usermanagementapi\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\cassa\\documents\\.net\\utveckling av webbapplikationer\\forumprojekt\\usermanagementapi\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56C21A0-009B-4516-8783-D203C10133F1}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\appsettings.json",
+              "RelativeToolTip": "UserManagementAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T08:49:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\Program.cs",
+              "RelativeToolTip": "UserManagementAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:47:12.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "UserManagementAPI\\Data\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:45:40.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "UserManagementAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:39:26.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Cassa\\Documents\\.net\\Utveckling av webbapplikationer\\ForumProjekt\\UserManagementAPI\\UserManagementAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagementAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wC4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:38:38.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
